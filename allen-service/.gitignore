@@ -1,0 +1,9 @@
+## NPM ##
+node_modules
+
+## API KEYS ##
+src/config/unsplash.js
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
